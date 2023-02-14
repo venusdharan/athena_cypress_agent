@@ -1,0 +1,22 @@
+{
+  "name": "athena_cypress_agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "agent": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "delete": "^1.1.0",
+    "socket.io-client": "^4.5.1",
+    "systeminformation": "^5.11.20",
+    "uuid": "^9.0.0"
+  }
+}
